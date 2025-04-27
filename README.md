@@ -2,7 +2,7 @@
 # NuScenes Dataset for 3D Object Detection
 
 This page provides specific tutorials about the usage of MMDetection3D for nuScenes dataset.
-（cited from https://github.com/open-mmlab/mmdetection3d/blob/1.0/docs/en/datasets/nuscenes_det.md）
+（cite from https://github.com/open-mmlab/mmdetection3d/blob/1.0/docs/en/datasets/nuscenes_det.md）
 
 ## Before Preparation
 
